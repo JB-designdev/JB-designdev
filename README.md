@@ -1,11 +1,17 @@
-# About me 👋
+# Hi, I'm Jordan 👋
 
+## About Me
+Currently taking CSC-134 and getting ready to learn C++!
 
-**JB-designdev/JB-designdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Foo (special interest) 🎯
+I like to collect Transformers and Marvel figures.
 
-Here are some ideas to get you started:
+## Currently Learning
+- C++
 
-- 🔭 I’m currently working on becoming a computer engineer.
-- 🌱 I’m currently learning Calculus.
-- ⚡ Fun fact: I have five dogs.
+## Fun Fact
+I have five dogs
+
+## Find Me
+- 📫 Right here on GitHub!
 
